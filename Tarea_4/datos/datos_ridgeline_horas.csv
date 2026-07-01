@@ -1,0 +1,21 @@
+plataforma,n_usuarios,rango_horas,conteo
+Instagram,20,Entre 0 y 1 Horas,1
+Instagram,20,Entre 1 y 3 Horas,8
+Instagram,20,Entre 3 y 5 Horas,9
+Instagram,20,Más de 5 Horas,2
+YouTube,19,Entre 0 y 1 Horas,1
+YouTube,19,Entre 1 y 3 Horas,7
+YouTube,19,Entre 3 y 5 Horas,8
+YouTube,19,Más de 5 Horas,3
+TikTok,11,Entre 0 y 1 Horas,0
+TikTok,11,Entre 1 y 3 Horas,4
+TikTok,11,Entre 3 y 5 Horas,7
+TikTok,11,Más de 5 Horas,0
+Otra,6,Entre 0 y 1 Horas,0
+Otra,6,Entre 1 y 3 Horas,2
+Otra,6,Entre 3 y 5 Horas,3
+Otra,6,Más de 5 Horas,1
+X (Twitter),4,Entre 0 y 1 Horas,0
+X (Twitter),4,Entre 1 y 3 Horas,2
+X (Twitter),4,Entre 3 y 5 Horas,1
+X (Twitter),4,Más de 5 Horas,1
